@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MengFanjun020906
 - 👀 I’m interested in MCU and MachineLearning
-- 🌱 I’m currently learning MachineLearning
+- 🌱 I am a student of communication engineering
 - 📫 mengfanjun_020906@outlook.com
 - 🤓 My Bolg:https://mengfanjun020906.github.io/
 <!---
