@@ -1,6 +1,6 @@
 <p align="center">
   <img width="140" src="https://m1.im5i.com/2022/12/13/U5K7uW.png" />  
-  <h2 align="center">你们好，我是孟凡钧</h2>
+  <h2 align="center">孟凡钧</h2>
   <p align="center"> 读书破万卷</p>
 </p>
 
