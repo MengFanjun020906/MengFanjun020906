@@ -25,7 +25,7 @@
 
 
 
-# 关于我
+# Hi，there is MengFanjun👋
 - 大三通信工程专业在读
 - 这是我的[博客](https://mfjblog.top)，里面大部分是我的学习记录，后来想了想，博客也可以记录些个人的生活什么的
 - 我的[邮箱](mailto:mengfanjun_020906@outlook.com)，大家有什么问题可以与我联系
