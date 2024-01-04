@@ -1,25 +1,15 @@
-# Visits https://github.com/anmol098/waka-readme-stats for details.
-name: Waka Readme
-
+name: Update gist with WakaTime stats
 on:
   schedule:
-    # Runs at 12.30am in UTC+8
-    - cron: "30 16 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"      # 可修改 "*/10 * * * *" 每10分钟 action，方便调试
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  update-gist:
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - uses: actions/checkout@master
+      - name: Update gist
+        uses: Mengfanjun020906/waka-box@master  # 原 matchai/waka-box，修改成自己的
+        env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_LANGUAGE: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROJECTS: "False"
-          SHOW_COMMIT: "False"
-          SHOW_SHORT_INFO: "False"
-          SHOW_LOC_CHART: "False"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_PROFILE_VIEWS: "False"
+          GIST_ID: 38913796d6d4f3f471baa354fdaf2aeb
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
