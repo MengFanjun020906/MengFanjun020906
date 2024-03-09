@@ -30,7 +30,7 @@
 
 <h2 align="left">Metrics</h2>
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+![Personal 3D Metrics](./profile-3d-contrib/profile-green.svg)
 
 
 
