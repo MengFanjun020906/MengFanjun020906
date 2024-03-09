@@ -19,7 +19,7 @@
 - **持续创作，持续输出，做一个终身学习者**
 
 
-<p align="center">
+
  
 
 
@@ -28,7 +28,7 @@
 
 
   <p align="center"><a href="https://mfjblog.top" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=mfjblog.top&message=mfjblog&color=gray&labelColor=2C68C3&style=flat&logo=MicroSoftOneDrive&logoColor=white" alt="GitHub" /></a></p>
-</p>
+
 
 
 
