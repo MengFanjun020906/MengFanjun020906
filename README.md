@@ -7,8 +7,7 @@
   </a>
   </h1>
 
-<h2 align="left">Hi there👋, I'm MengFanjun</h1>
-<p align="left">A student from China.</p>
+
 
 # Hi，there is MengFanjun👋
 - 大四通信工程专业在读
