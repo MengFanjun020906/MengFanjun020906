@@ -1,9 +1,33 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=Hello%2Cthere!;This+is+Mengfanjun;Nice+to+meet+you!" alt="Typing SVG" />
+</a>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <!--     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;This+is+MengFanjun....;Nice+to+meet+you!&center=true&size=30"> -->
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Charis+SIL&size=30&duration=3000&color=1AACF7&center=true&vCenter=true&lines=Hello%2C+There!;This+is+MengFanjun!;Nice+to+meet+you!">
+  </a>
+  </h1>
+
+<h2 align="left">Hi there👋, I'm MengFanjun</h1>
+<p align="left">A student from China.</p>
+
+# Hi，there is MengFanjun👋
+- 大四通信工程专业在读
+- 这是我的[博客](https://mfjblog.top)，里面大部分是我的学习记录，后来想了想，博客也可以记录些个人的生活什么的
+- 我的[邮箱](mailto:mengfanjun_020906@outlook.com)，大家有什么问题可以与我联系
+- 我主要是做嵌入式多一点，人工智能和html什么的，也只能算得上了解
+- 目前在**备战考研**和**学FPGA**
+- 这些仓库和博客也可以说是我大学路上的见证者
+- **持续创作，持续输出，做一个终身学习者**
+
+
 <p align="center">
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=Hello%2Cthere!;This+is+Mengfanjun;Nice+to+meet+you!" alt="Typing SVG" /></a>
-<hr /> 
+
+
 
 
   <p align="center"><a href="https://mfjblog.top" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=mfjblog.top&message=mfjblog&color=gray&labelColor=2C68C3&style=flat&logo=MicroSoftOneDrive&logoColor=white" alt="GitHub" /></a></p>
@@ -73,11 +97,4 @@ No Activity Tracked This Week
 
 
 
-# Hi，there is MengFanjun👋
-- 大四通信工程专业在读
-- 这是我的[博客](https://mfjblog.top)，里面大部分是我的学习记录，后来想了想，博客也可以记录些个人的生活什么的
-- 我的[邮箱](mailto:mengfanjun_020906@outlook.com)，大家有什么问题可以与我联系
-- 我主要是做嵌入式多一点，人工智能和html什么的，也只能算得上了解
-- 目前在**备战考研**和**学FPGA**
-- 这些仓库和博客也可以说是我大学路上的见证者
-- **持续创作，持续输出，做一个终身学习者**
+
