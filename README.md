@@ -31,17 +31,16 @@
 </p>
 
 
-<p align="center">
+
 <a href="https://mengfanjun020906.github.io/">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=MengFanjun020906&row=1&column=4"/>
 </a>
-</p>
 
-<p align="center">
+
 <a href="https://mengfanjun020906.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MengFanjun020906&hide=contribs"/>
 </a>
-</p>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
