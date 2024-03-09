@@ -3,6 +3,8 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=Hello%2Cthere!;This+is+Mengfanjun;Nice+to+meet+you!" alt="Typing SVG" /></a>
+<hr /> 
+
 
   <p align="center"><a href="https://mfjblog.top" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=mfjblog.top&message=mfjblog&color=gray&labelColor=2C68C3&style=flat&logo=MicroSoftOneDrive&logoColor=white" alt="GitHub" /></a></p>
   <p align="center"> 读书破万卷</p>
