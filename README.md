@@ -10,13 +10,14 @@
 
 
 # Hi,there is MengFanjun👋
-- 大四通信工程专业在读
-- 这是我的[博客](https://mfjblog.top)，里面大部分是我的学习记录，后来想了想，博客也可以记录些个人的生活什么的
-- 我的[邮箱](mailto:mengfanjun_020906@outlook.com)，大家有什么问题可以与我联系
-- 我主要是做嵌入式、人工智能等方面
-- 目前在**学习信号与系统等专业课程**
-- 这些仓库和博客也可以说是我大学路上的见证者
-- **持续创作，持续输出，做一个终身学习者**
+- I come from China.🇨🇳
+- Senior majoring in communication engineering
+- This is my [blog](https://mfjblog.top), most of which is my study record, later thought, blog can also record some personal life what
+- My [email](mengfanjun_020906@outlook.com), please contact me if you have any questions
+- I mainly do embedded programming, artificial intelligence and other aspects
+- Currently studying **signal and system professional courses**
+- These warehouses and blogs are also my witnesses on the way to college
+- **Continue to create, continue to output, be a lifelong learner**
 
 
 
