@@ -90,7 +90,7 @@ Mac                      0 secs              ███████████�
 
 <h2 align="left">Metrics</h2>
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-green.svg)
+![Personal 3D Metrics](./profile-3d-contrib/profile-season-animate.svg)
 
 
 
