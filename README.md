@@ -197,7 +197,13 @@ Mac                      1 hr 5 mins         ███████████�
                    <a href="https://cn.aliyun.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/alibabacloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"
-      alt="vercel"
+      alt="aliyun"
+    />
+  </a> 
+                       <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
+      alt="markdown"
     />
   </a> 
   <h3 align="left">Recently Learning</h3>
@@ -217,11 +223,15 @@ Mac                      1 hr 5 mins         ███████████�
   <a href="https://github.com/Mengfanjun020906"
     target="blank"><img align="center"
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-      alt="github: engfanjun"/>
+      alt="github: mengfanjun"/>
       <a href="https://www.zhihu.com/people/bu-shi-hen-sha-31"
     target="blank"><img align="center"
       src="https://img.shields.io/badge/zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white"
-      alt="github: lean-tzou"/>
+      alt="github: mengfanjun"/>
+              <a href="https://twitter.com/Solitude63420"
+    target="blank"><img align="center"
+      src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white"
+      alt="github: mengfanjun"/>
   </a>
   
 
