@@ -213,6 +213,12 @@ Mac                      1 hr 5 mins         ███████████�
       alt="docker"
     />
   </a>
+       <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"
+      alt="docker"
+    />
+  </a>
   
 
 
