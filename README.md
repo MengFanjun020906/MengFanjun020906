@@ -233,7 +233,11 @@ Mac                      1 hr 5 mins         ███████████�
       src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white"
       alt="github: mengfanjun"/>
   </a>
-  
+                <a href="https://gitee.com/meng-fanjun-123"
+    target="blank"><img align="center"
+      src="https://img.shields.io/badge/gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white"
+      alt="github: gitee"/>
+  </a>
 
   <h2 align="left">Counter</h2>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
