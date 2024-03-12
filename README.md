@@ -41,6 +41,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MengFanjun020906&hide=contribs"/>
 </a>
 
+<h2 align="left">Coding Stats</h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%205%20mins-blue)
