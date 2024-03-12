@@ -119,10 +119,10 @@ Mac                      1 hr 5 mins         ███████████�
       src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"
     />
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
-      alt="sass"
+      src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
+      alt="pytorch"
     />
   </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
