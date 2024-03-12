@@ -10,7 +10,7 @@
 
 
 # Hi,there is MengFanjun👋
-- I come from China.🇨🇳
+- A student from China.🇨🇳
 - Senior majoring in communication engineering
 - This is my [blog](https://mfjblog.top), most of which is my study record, later thought, blog can also record some personal life what
 - My [email](mengfanjun_020906@outlook.com), please contact me if you have any questions
@@ -82,7 +82,9 @@ Mac                      1 hr 5 mins         ███████████�
 
  Last Updated on 11/03/2024 16:38:21 UTC
 <!--END_SECTION:waka-->
+<h2 align="left">Metrics</h2>
 
+![Personal 3D Metrics](./profile-3d-contrib/profile-season-animate.svg)
 
 
 <h2 align="left">Languages and Tools</h2>
@@ -132,11 +134,98 @@ Mac                      1 hr 5 mins         ███████████�
       alt="linux"
     />
   </a> 
+   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white"
+      alt="arduino"
+    />
+  </a> 
+     <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"
+      alt="stm32"
+    />
+  </a> 
+       <a href="https://lceda.cn/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/ICEDA-1765F6?style=for-the-badge&logo=easyeda&logoColor=white"
+      alt="eda"
+    />
+  </a> 
+         <a href="https://hexo.io/zh-cn/index.html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=Hexo&logoColor=white"
+      alt="hexo"
+    />
+  </a> 
+           <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=Latex&logoColor=white"
+      alt="latex"
+    />
+  </a> 
+             <a href="https://www.altium.com/altium-designer" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Atiumdesigner-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white"
+      alt="ad"
+    />
+  </a> 
+               <a href="https://www.ni.com/en/support/downloads/software-products/download.multisim.htm" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Multisim-57B685?style=for-the-badge&logo=multisim&logoColor=white"
+      alt="multisim"
+    />
+  </a> 
+                 <a href="https://www.ni.com/en-us/shop/labview.html" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Labview-FFDB00?style=for-the-badge&logo=labview&logoColor=black"
+      alt="labview"
+    />
+  </a> 
+                 <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"
+      alt="ubuntu"
+    />
+  </a> 
+                   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="vercel"
+    />
+  </a> 
+                   <a href="https://cn.aliyun.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/alibabacloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"
+      alt="vercel"
+    />
+  </a> 
+  <h3 align="left">Recently Learning</h3>
+     <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
+      alt="docker"
+    />
+  </a>
+  
 
-<h2 align="left">Metrics</h2>
-
-![Personal 3D Metrics](./profile-3d-contrib/profile-season-animate.svg)
 
 
+<!-- Connect with me -->
+<h2 align="left">Connect with me</h2>
+<p align="left">
+  <a href="https://github.com/Mengfanjun020906"
+    target="blank"><img align="center"
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+      alt="github: engfanjun"/>
+      <a href="https://www.zhihu.com/people/bu-shi-hen-sha-31"
+    target="blank"><img align="center"
+      src="https://img.shields.io/badge/zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white"
+      alt="github: lean-tzou"/>
+  </a>
+  
 
-
+  <h2 align="left">Counter</h2>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=Mengfanjun020906&style=for-the-badge" />
+</a>
