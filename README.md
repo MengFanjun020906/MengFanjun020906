@@ -233,16 +233,21 @@ Mac                      1 hr 5 mins         ███████████�
       <a href="https://www.zhihu.com/people/bu-shi-hen-sha-31"
     target="blank"><img align="center"
       src="https://img.shields.io/badge/zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white"
-      alt="github: mengfanjun"/>
+      alt="zhihu: mengfanjun"/>
               <a href="https://twitter.com/Solitude63420"
     target="blank"><img align="center"
       src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white"
-      alt="github: mengfanjun"/>
+      alt="twitter: mengfanjun"/>
   </a>
                 <a href="https://gitee.com/meng-fanjun-123"
     target="blank"><img align="center"
       src="https://img.shields.io/badge/gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white"
-      alt="github: gitee"/>
+      alt="gitee: mengfanjun"/>
+  </a>
+                  <a href="https://www.kaggle.com/funjunmeng"
+    target="blank"><img align="center"
+      src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
+      alt="kaggle: mengfanjun"/>
   </a>
 
   <h2 align="left">Counter</h2>
