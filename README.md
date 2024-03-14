@@ -206,6 +206,13 @@ Mac                      1 hr 5 mins         ███████████�
       alt="markdown"
     />
   </a> 
+                         <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/proteus-1C79B3?style=for-the-badge&logo=proteus&logoColor=white"
+      alt="proteus"
+    />
+  </a> 
+    
   <h3 align="left">Recently Learning</h3>
      <a href="https://www.docker.com" target="_blank" rel="noreferrer">
     <img
