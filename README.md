@@ -27,7 +27,7 @@
 
 
 
-<a href="https://mfjblog.top" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=mfjblog.top&message=MyBlog&color=gray&labelColor=2C68C3&style=flat&logo=MicroSoftOneDrive&logoColor=white" alt="GitHub" /></a>
+<a href="https://mfjblog.top" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=mfjblog.top&message=MyBlog&color=gray&labelColor=2C68C3&style=for-the-badge&logo=MicroSoftOneDrive&logoColor=white" alt="GitHub" /></a>
 
 
 
