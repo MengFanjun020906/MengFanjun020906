@@ -44,10 +44,40 @@
 <h2 align="left">Coding Stats</h2>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2013%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Tuesday                  73 commits          ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Wednesday                61 commits          █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Thursday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Friday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Saturday                 43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Sunday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+```
 
 
- Last Updated on 11/04/2024 16:36:22 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 12/04/2024 16:36:18 UTC
 <!--END_SECTION:waka-->
 <h2 align="left">Metrics</h2>
 
