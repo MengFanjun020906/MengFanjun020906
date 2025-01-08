@@ -44,7 +44,7 @@
 <h2 align="left">Coding Stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -80,7 +80,7 @@ Mac                      7 hrs 31 mins       █████████░░�
 ```
 
 
- Last Updated on 07/01/2025 16:54:19 UTC
+ Last Updated on 08/01/2025 16:44:42 UTC
 <!--END_SECTION:waka-->
 <h2 align="left">Metrics</h2>
 
