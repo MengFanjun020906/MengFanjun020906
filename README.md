@@ -44,7 +44,7 @@
 <h2 align="left">Coding Stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -67,17 +67,17 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr                █████████████████████████   100.00 % 
+Other                    3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   1 hr                █████████████████████████   100.00 % 
+Chrome                   3 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr                █████████████████████████   100.00 % 
+Mac                      3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/05/2025 16:47:48 UTC
+ Last Updated on 17/05/2025 16:46:01 UTC
 <!--END_SECTION:waka-->
 <h2 align="left">Metrics</h2>
 
