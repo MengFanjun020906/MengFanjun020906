@@ -15,7 +15,8 @@
 - This is my [blog](https://mfjblog.top), most of which is my study record, later thought, blog can also record some personal life what
 - My [email](mengfanjun_020906@outlook.com), please contact me if you have any questions
 - I mainly do embedded programming, artificial intelligence and other aspects
-- Currently studying **signal and system professional courses**
+- Currently studying **LLM**.
+- I am currently an intern at **Kuaishou**.
 - These warehouses and blogs are also my witnesses on the way to college
 - **Continue to create, continue to output, be a lifelong learner**
 
