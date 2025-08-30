@@ -212,12 +212,6 @@ Windows                  14 hrs 4 mins       ██████░░░░░�
       alt="proteus"
     />
   </a> 
-                         <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/proteus-1C79B3?style=for-the-badge&logo=centos&logoColor=white"
-      alt="proteus"
-    />
-  </a> 
                            <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white"
