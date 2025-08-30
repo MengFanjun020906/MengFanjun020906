@@ -16,7 +16,12 @@
 - My [email](mengfanjun_020906@outlook.com), please contact me if you have any questions
 - I mainly do embedded programming, artificial intelligence and other aspects
 - Currently studying **Transformer**.
-- I am currently an intern at **Kuaishou**.
+- I am currently an intern at **Kuaishou**.                           <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/kuaishou-FF4906?style=for-the-badge&logo=kuaishou&logoColor=white"
+      alt="kuaishou"
+    />
+  </a> 
 - These warehouses and blogs are also my witnesses on the way to college
 - **Continue to create, continue to output, be a lifelong learner**
 
