@@ -266,6 +266,11 @@ Windows                  51 mins             █░░░░░░░░░░�
       src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
       alt="kaggle: mengfanjun"/>
   </a>
+                    <a href="https://leetcode.cn/u/sol-itude/"
+    target="blank"><img align="center"
+      src="https://img.shields.io/badge/kaggle-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+      alt="kaggle: mengfanjun"/>
+  </a>
 
   <h2 align="left">Counter</h2>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
