@@ -268,8 +268,8 @@ Windows                  51 mins             █░░░░░░░░░░�
   </a>
                     <a href="https://leetcode.cn/u/sol-itude/"
     target="blank"><img align="center"
-      src="https://img.shields.io/badge/kaggle-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-      alt="kaggle: mengfanjun"/>
+      src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+      alt="leetcode: mengfanjun"/>
   </a>
 
   <h2 align="left">Counter</h2>
