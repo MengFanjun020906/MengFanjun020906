@@ -50,7 +50,7 @@
 <h2 align="left">Coding Stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C299%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C299%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.23%20million%20lines%20of%20code-blue?style=flat)
 
@@ -79,12 +79,12 @@ Other                    3 hrs 5 mins        ███████████�
 Chrome                   3 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 33 mins       █████████████████████░░░░   82.97 % 
-Windows                  31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Mac                      2 hrs 36 mins       █████████████████████░░░░   84.13 % 
+Windows                  29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
 ```
 
 
- Last Updated on 12/02/2026 17:34:02 UTC
+ Last Updated on 13/02/2026 17:14:18 UTC
 <!--END_SECTION:waka-->
 <h2 align="left">Metrics</h2>
 
