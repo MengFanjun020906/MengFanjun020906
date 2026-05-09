@@ -15,7 +15,7 @@
 - This is my [blog](https://mfjblog.top), most of which is my study record, later thought, blog can also record some personal life what
 - My [email](mengfanjun_020906@outlook.com), please contact me if you have any questions
 - I mainly do artificial intelligence and other aspects
-- Currently studying **Transformer**.
+- Currently studying **LLM/Agent**.
 - I am currently an intern at **Kuaishou**.                           <a href="https://www.kuaishou.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/kuaishou-FF4906?style=for-the-badge&logo=kuaishou&logoColor=white"
