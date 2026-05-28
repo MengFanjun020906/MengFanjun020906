@@ -50,41 +50,10 @@
 <h2 align="left">Coding Stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C459%20hrs%2020%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.80%20million%20lines%20of%20code-blue?style=flat)
 
-📅 **I'm Most Productive on Tuesday** 
 
-```text
-Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Tuesday                  84 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Wednesday                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Thursday                 46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Friday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Saturday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Sunday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    15 hrs 53 mins      ████████████████████████░   95.45 % 
-Text                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-
-🔥 Editors: 
-Chrome                   16 hrs 38 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      16 hrs 38 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 27/05/2026 18:39:07 UTC
+ Last Updated on 28/05/2026 19:10:24 UTC
 <!--END_SECTION:waka-->
 <h2 align="left">Metrics</h2>
 
