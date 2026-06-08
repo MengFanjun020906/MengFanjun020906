@@ -50,10 +50,12 @@
 <h2 align="left">Coding Stats</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C488%20hrs%2057%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.91%20million%20lines%20of%20code-blue?style=flat)
 
 
- Last Updated on 07/06/2026 17:47:48 UTC
+ Last Updated on 08/06/2026 18:42:24 UTC
 <!--END_SECTION:waka-->
 <h2 align="left">Metrics</h2>
 
