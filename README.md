@@ -50,7 +50,7 @@
 <h2 align="left">Coding Stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -73,15 +73,15 @@ Sunday                   114 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 39 mins      ████████████████████████░   97.50 % 
-Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Other                    13 hrs 52 mins      ████████████████████████░   97.62 % 
+Text                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 58 mins      █████████████████████████   100.00 % 
+Chrome                   14 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 17 mins      ████████████████████████░   94.68 % 
-Windows                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Mac                      14 hrs 4 mins       █████████████████████████   98.94 % 
+Windows                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,7 +91,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/09/2026 20:24:20 UTC
+ Last Updated on 15/09/2026 19:47:12 UTC
 <!--END_SECTION:waka-->
 <h2 align="left">Metrics</h2>
 
